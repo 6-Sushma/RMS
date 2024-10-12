@@ -1,0 +1,67 @@
+{
+  "customer": [
+    {
+      "date": "21-08-2023 06:25 PM",
+      "cashier": "ande@gmail.com",
+      "name": "samaikya",
+      "phonenumber": "1234567890",
+      "id": 1
+    },
+    {
+      "date": "21-08-2023 06:41 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sushma",
+      "phonenumber": "0987654321",
+      "id": 2
+    },
+    {
+      "date": "21-08-2023 06:52 PM",
+      "cashier": "ande@gmail.com",
+      "name": "hasrha",
+      "phonenumber": "0987654321",
+      "id": 3
+    },
+    {
+      "date": "21-08-2023 08:33 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sama",
+      "phonenumber": "1234567890",
+      "id": 4
+    },
+    {
+      "date": "21-08-2023 08:36 PM",
+      "cashier": "ande@gmail.com",
+      "name": "vashi",
+      "phonenumber": "0987654321",
+      "id": 5
+    },
+    {
+      "date": "22-08-2023 10:37 AM",
+      "cashier": "ande@gmail.com",
+      "name": "chaitanya",
+      "phonenumber": "1234567890",
+      "id": 6
+    },
+    {
+      "date": "22-08-2023 12:31 PM",
+      "cashier": "ande@gmail.com",
+      "name": "sama",
+      "phonenumber": "1234567890",
+      "id": 7
+    },
+    {
+      "date": "22-08-2023 12:47 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "Ritesh",
+      "phonenumber": "9381468567",
+      "id": 8
+    },
+    {
+      "date": "12-10-2024 05:53 PM",
+      "cashier": "sushma@gmail.com",
+      "name": "54789",
+      "phonenumber": "2345678952",
+      "id": 9
+    }
+  ]
+}

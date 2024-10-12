@@ -1,0 +1,82 @@
+{
+  "cart": [
+    {
+      "custId": "1",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 1
+    },
+    {
+      "custId": "1",
+      "productName": "type",
+      "quantity": "1",
+      "id": 2
+    },
+    {
+      "custId": "2",
+      "productName": "type",
+      "quantity": "123",
+      "id": 3
+    },
+    {
+      "custId": "3",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 4
+    },
+    {
+      "custId": "3",
+      "productName": "type",
+      "quantity": "123",
+      "id": 5
+    },
+    {
+      "custId": "3",
+      "productName": "type",
+      "quantity": "45",
+      "id": 6
+    },
+    {
+      "custId": "4",
+      "productName": "type",
+      "quantity": "56",
+      "id": 7
+    },
+    {
+      "custId": "5",
+      "productName": "hujiko",
+      "quantity": "3",
+      "id": 8
+    },
+    {
+      "custId": "6",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 9
+    },
+    {
+      "custId": "7",
+      "productName": "hujiko",
+      "quantity": "12",
+      "id": 10
+    },
+    {
+      "custId": "8",
+      "productName": "kajal",
+      "quantity": "3",
+      "id": 11
+    },
+    {
+      "custId": "8",
+      "productName": "tomato",
+      "quantity": "8",
+      "id": 12
+    },
+    {
+      "custId": "9",
+      "productName": "11",
+      "quantity": "12",
+      "id": 13
+    }
+  ]
+}

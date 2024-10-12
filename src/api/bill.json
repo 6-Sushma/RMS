@@ -1,0 +1,141 @@
+{
+  "Bill": [
+    {
+      "cartDetails": [
+        {
+          "custId": "1",
+          "productId": 1,
+          "productName": "hujiko",
+          "costPerItem": "6",
+          "quantity": "12",
+          "totalCost": 91
+        },
+        {
+          "custId": "1",
+          "productId": 2,
+          "productName": "type",
+          "costPerItem": "5",
+          "quantity": "1",
+          "totalCost": 91
+        }
+      ],
+      "totalCartCostWithGST": 214.76,
+      "id": 1
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "2",
+          "productId": 3,
+          "productName": "type",
+          "costPerItem": "5",
+          "quantity": "123",
+          "totalCost": 726
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "3",
+          "productId": 4,
+          "productName": "hujiko",
+          "costPerItem": "6",
+          "quantity": "12",
+          "totalCost": 1076
+        },
+        {
+          "custId": "3",
+          "productId": 5,
+          "productName": "type",
+          "costPerItem": "5",
+          "quantity": "123",
+          "totalCost": 1076
+        },
+        {
+          "custId": "3",
+          "productId": 6,
+          "productName": "type",
+          "costPerItem": "5",
+          "quantity": "45",
+          "totalCost": 1076
+        }
+      ],
+      "id": 3
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "4",
+          "productId": 7,
+          "productName": "type",
+          "costPerItem": "5",
+          "quantity": "56",
+          "totalCost": 330
+        }
+      ],
+      "id": 4
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "5",
+          "productId": 8,
+          "productName": "hujiko",
+          "costPerItem": "6",
+          "quantity": "3",
+          "totalCost": 21
+        }
+      ],
+      "id": 5
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "6",
+          "productId": 9,
+          "productName": "hujiko",
+          "costPerItem": "6",
+          "quantity": "12",
+          "totalCost": 85
+        }
+      ],
+      "id": 6
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "8",
+          "productId": 11,
+          "productName": "kajal",
+          "costPerItem": "15",
+          "quantity": "3",
+          "totalCost": 525
+        },
+        {
+          "custId": "8",
+          "productId": 12,
+          "productName": "tomato",
+          "costPerItem": "50",
+          "quantity": "8",
+          "totalCost": 525
+        }
+      ],
+      "id": 7
+    },
+    {
+      "cartDetails": [
+        {
+          "custId": "9",
+          "productId": 13,
+          "productName": "11",
+          "costPerItem": "50",
+          "quantity": "12",
+          "totalCost": 708
+        }
+      ],
+      "id": 8
+    }
+  ]
+}

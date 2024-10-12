@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "productType": "Vegetables",
+      "productCode": "1234",
+      "productName": "tomato",
+      "cost": "50",
+      "manufactureDate": "2023-08-04",
+      "expiryDate": "2023-08-30",
+      "description": "desi tomato",
+      "id": 1
+    },
+    {
+      "productType": "Beauty",
+      "productCode": "1005g",
+      "productName": "Lipstick red colour",
+      "cost": "500",
+      "manufactureDate": "2023-08-22",
+      "expiryDate": "2023-12-30",
+      "description": "buy one get 1 free",
+      "id": 3
+    },
+    {
+      "productType": "Beauty",
+      "productCode": "1005f",
+      "productName": "kajal",
+      "cost": "15",
+      "manufactureDate": "2023-08-22",
+      "expiryDate": "2023-09-08",
+      "description": "make your self beauty",
+      "id": 4
+    },
+    {
+      "productType": "Rice",
+      "productCode": "ASXX",
+      "productName": "11",
+      "cost": "50",
+      "manufactureDate": "2024-10-11",
+      "expiryDate": "2024-10-16",
+      "description": "brown rice",
+      "id": 5
+    }
+  ]
+}

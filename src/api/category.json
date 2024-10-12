@@ -1,0 +1,29 @@
+{
+  "category": [
+    {
+      "productType": "Rice",
+      "description": "mobile number must be a valid  digit number",
+      "id": 1
+    },
+    {
+      "productType": "Rice",
+      "description": "mobile number must be a valid ",
+      "id": 2
+    },
+    {
+      "productType": "Vegetables",
+      "description": "Fresh vegetables...",
+      "id": 3
+    },
+    {
+      "productType": "Beauty",
+      "description": "Make your self beautifull",
+      "id": 4
+    },
+    {
+      "productType": "Smart Phone ",
+      "description": "new launched phones",
+      "id": 5
+    }
+  ]
+}
